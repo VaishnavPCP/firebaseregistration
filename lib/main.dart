@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebaseregistration/authcontroller.dart';
 import 'package:flutter/material.dart';
-import 'package:firebaseregistration/firstpage.dart';
+import 'package:firebaseregistration/loginpage.dart';
 import 'package:get/get.dart';
 
 Future main()async {
